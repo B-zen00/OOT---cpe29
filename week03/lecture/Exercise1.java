@@ -7,7 +7,7 @@ public class Exercise1 {
         System.out.print("Input your budget = ");
         int budget = input.nextInt();
         if(budget >= 15000) {
-            System.out.printf("Your budget = %d ,you can buy it",budget);
+            System.out.printf("Your budget = %,d,you can buy it.",budget);
         }
         input.close();
     }
