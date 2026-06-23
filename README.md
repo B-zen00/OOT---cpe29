@@ -1,9 +1,4 @@
-#Hello
+# วิชา OOT - CPE
+วิชานี้เรียนตอนปี2 เทอม2
 
-'''bash
-print("hello")
-'''
-##Tabel
-|x|y|z|
-|1|2|3|
-|sdjvblj|kfjfnfvodfb|vfofjvndfb|
+
